@@ -25,7 +25,7 @@ public class Exception103 {
 	System.out.println("Error Number of argument"); 
 	} 
 	catch(Exception e) {
-	System.out.println(e); 
+	 System.out.println(e); 
 	} 
      }
 
